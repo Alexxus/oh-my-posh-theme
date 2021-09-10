@@ -38,7 +38,7 @@
             "display_stash_count": true,
             "display_upstream_icon": true,
             "status_colors_enabled": false,
-            "branch_icon": "",
+            "branch_icon": "\ue0a0 ",
             "display_status": false,
             "prefix": " \u279C (",
             "postfix": ") "
