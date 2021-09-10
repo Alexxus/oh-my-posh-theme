@@ -25,7 +25,8 @@
           "foreground": "#ffffff",
           "background": "#DA627D",
           "properties": {
-            "style": "folder"
+            "style": "folder",
+            "enable_hyperlink": true
           }
         },
         {
